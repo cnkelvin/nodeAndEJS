@@ -12,6 +12,20 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [NodeJS]
 - [EJS]
 
+## 🚀 Como executar
+
+Clone o projeto e acesse a pasta do mesmo
+
+```bash
+$ git clone https://github.com/cnkelvin/nodeAndEJS.git
+
+$ cd nodeAndEJS
+$ npm i (para instalar as dependências)
+$ node server
+
+```
+Depois disso, abra o seu navegador e digite http://localhost:8080
+
 ## 💻 Projeto
 
 Este projeto foi feito com a ajuda da trilha fundamentar da Rockeatseat, onde foi apresentado as funcionalidades do EJS e as facilidades que o Bootstrap pode oferecer.
